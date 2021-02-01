@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package projecte_natacio;
+package Race;
 
 /**
  *
@@ -15,7 +15,7 @@ import java.util.Scanner;
  *
  * @author Javier del Moral
  */
-public class Natacio_VersioFinal_Setmana12 {
+public class Race_Final {
 
     //Dades constants
     private static final int NOIA = 1;
