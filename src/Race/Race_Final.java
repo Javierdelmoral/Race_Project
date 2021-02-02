@@ -7,7 +7,7 @@ package Race;
 
 /**
  *
- * @author Javier
+ * @author Javier Del Moral
  */
 import java.util.Scanner;
 
